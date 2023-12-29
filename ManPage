@@ -1,0 +1,15 @@
+#ManPage
+
+Man Page:
+1.	Open console
+2.	Run executable serverC file by using “./serverC 5000”, where 5000 is port number.
+3.	Open a new console.
+4.	Run executable client file by using “. /client 127.0.0.1 5000”
+5.	The game will start, Play the game.
+6.	You can run several consoles simultaneously and start playing game using command in step 4.
+
+Game description: 
+	The designed game is tic tac toe, it is a Player vs computer game, player will be assigned ‘X’ and computer will be assigned ‘0’.
+1.	You will be asked to input Players Name.
+2.	You will be asked to input a X and y coordinates for location you want to mark X at. And then computer will mark it.
+3.	Whoever gets the marks together (could be a row, a column, or diagonal) will be termed as winner. 
